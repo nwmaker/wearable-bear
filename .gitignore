@@ -1,0 +1,7 @@
+# Gerber files
+build
+build/production
+
+#
+.DS_Store
+

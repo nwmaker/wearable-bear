@@ -1,6 +1,6 @@
-# Bearable: wearable bear soldering kit
+# Bearable: wearable bear kit
 
-![Bearable SVG](https://github.com/nwmaker/bearable/blob/master/docs/bearable.png)
+![Wearable Bear SVG](https://github.com/nwmaker/wearable-bear/blob/master/docs/bearable.png)
 
 ## setup
 The initial has the outline shape added, together with 40 vias at the bottom.
@@ -20,5 +20,5 @@ Add copper pour, wearable pin, info and logo.
 ## PCB rendering
 This is the purple rendering by OSHPark
 
-![Bearable OSH](https://github.com/nwmaker/bearable/blob/master/docs/bearable-osh.png)
+![OSH](https://github.com/nwmaker/wearable-bear/blob/master/docs/bearable-osh.png)
 
